@@ -10,6 +10,7 @@ import java.security.NoSuchAlgorithmException;
  */
 
 public class MyUtils {
+      private int test;//引擎测试新增
 
     /**
      * 获得IP地址
